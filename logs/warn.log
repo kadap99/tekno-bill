@@ -10987,3 +10987,15 @@
 [2025-10-24T01:37:50.708Z] [WARN] WhatsApp socket not available for agent notification
 [2025-10-24T01:45:33.872Z] [WARN] No technician group configured for PPPoE notifications
 [2025-10-24T01:47:33.906Z] [WARN] No technician group configured for PPPoE notifications
+[2025-12-19T06:19:45.183Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:22:52.447Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:23:52.434Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:24:52.436Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:25:52.435Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:26:52.441Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:27:52.454Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:28:52.472Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:29:52.474Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:30:52.482Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:31:52.481Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal
+[2025-12-19T06:32:52.491Z] [WARN] Monitoring PPPoE connections failed: Koneksi ke Mikrotik gagal

@@ -11956,3 +11956,187 @@
   "message": "Cannot read properties of undefined (reading 'id')",
   "stack": "TypeError: Cannot read properties of undefined (reading 'id')\n    at Object.sendMessage (file:///C:/Users/DELL/Desktop/gembok-bill-main/node_modules/@whiskeysockets/baileys/lib/Socket/messages-send.js:862:48)\n    at AgentWhatsAppManager.sendBalanceUpdateNotification (C:\\Users\\DELL\\Desktop\\gembok-bill-main\\config\\agentWhatsApp.js:230:33)\n    at C:\\Users\\DELL\\Desktop\\gembok-bill-main\\routes\\adminAgents.js:698:43"
 }
+[2025-12-19T06:19:45.182Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:19:45.182Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:22:52.446Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:22:52.446Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:23:16.215Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:18.220Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:18.221Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:23:18.224Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:18.227Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:18.227Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:23:18.451Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:18.452Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:23:18.453Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:21.250Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:22.194Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:25.182Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:28.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:31.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:34.193Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:37.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:40.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:43.190Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:46.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:49.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:52.180Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:52.434Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:52.434Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:23:55.197Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:23:58.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:01.183Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:04.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:07.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:10.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:13.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:16.191Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:19.182Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:22.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:25.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:28.189Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:31.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:34.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:37.198Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:40.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:43.186Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:46.191Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:49.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:52.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:52.435Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:52.435Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:24:55.194Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:24:58.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:01.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:04.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:07.181Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:10.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:13.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:16.183Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:19.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:22.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:25.196Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:28.182Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:31.181Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:34.190Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:37.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:40.183Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:43.195Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:46.196Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:49.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:52.180Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:52.434Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:52.435Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:25:55.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:25:58.195Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:01.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:04.190Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:07.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:10.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:13.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:16.189Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:19.190Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:22.189Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:25.189Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:28.189Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:31.189Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:34.190Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:37.190Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:40.191Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:43.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:46.183Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:49.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:52.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:52.440Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:52.440Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:26:55.191Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:26:58.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:01.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:04.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:07.191Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:10.195Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:13.189Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:16.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:19.194Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:22.189Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:25.196Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:28.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:31.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:34.183Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:37.186Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:40.190Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:43.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:46.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:49.182Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:52.196Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:52.453Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:52.454Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:27:55.181Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:27:58.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:28:01.193Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:28:04.182Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:28:07.186Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:28:10.198Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:28:13.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:28:16.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:28:45.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:28:52.470Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:28:52.471Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:29:45.186Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:29:52.473Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:29:52.473Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:30:45.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:30:52.481Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:30:52.482Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:31:26.133Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:27.453Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:30.457Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:34.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:37.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:40.200Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:43.180Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:46.182Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:49.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:52.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:52.480Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:52.481Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:31:54.454Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:31:58.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:01.183Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:04.193Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:07.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:10.191Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:13.183Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:16.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:19.190Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:22.197Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:25.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:28.182Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:31.182Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:34.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:37.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:40.183Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:43.189Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:46.180Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:49.185Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:52.199Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:52.491Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:52.491Z] [ERROR] No Mikrotik connection available
+[2025-12-19T06:32:55.188Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:32:58.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:01.195Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:04.194Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:07.191Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:10.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:13.186Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:16.193Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:19.183Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:22.181Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:25.184Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:28.192Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:31.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:34.194Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:37.186Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:40.190Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:43.194Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
+[2025-12-19T06:33:46.187Z] [ERROR] Error connecting to Mikrotik: Username or password is invalid
